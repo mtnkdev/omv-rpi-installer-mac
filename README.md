@@ -8,7 +8,7 @@ Filelist:
  - readme.omv-rpi-installer-mac.txt
 
 To start use the following command in terminal:
-./omv-rpi-installer-mac
+$ ./omv-rpi-installer-mac
 
 Package update function is coming soon
 It will update "data.tgz" directly from the installation script.
