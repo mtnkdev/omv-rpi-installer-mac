@@ -1,8 +1,10 @@
-# omv-rpi-installer-mac
+# omv-rpi-installer-mac v1.0.2
 Easy install package for OpenMediaVault (Raspberry Pi): Prepares the SD Card and restores the image data on the SD Card
 The package includes 
  - OpenMediaVault v2.2.5 (RPi 2 & RPi 3) stable 
  - OpenMediaVault v3.0.51 (RPi 2 & RPi 3) beta
+
+Download: https://drive.google.com/open?id=0ByiDZQd7vyteSjdjc3NPa2dYZVE
 
 Filelist:
  - omv-rpi-installer-mac (The install tool) 
